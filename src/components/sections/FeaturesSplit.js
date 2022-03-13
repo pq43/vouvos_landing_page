@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-01.png")}
+                  src={require("./../../assets/images/pic1.jpg")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -114,7 +114,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-02.png")}
+                  src={require("./../../assets/images/pic2.jpg")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -145,7 +145,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/features-split-image-03.png")}
+                  src={require("./../../assets/images/pic3.jpg")}
                   alt="Features split 03"
                   width={528}
                   height={396}
