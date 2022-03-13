@@ -78,7 +78,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://cruip.com/"
+                    href="https://nmym3dhe0sm.typeform.com/to/QNFH45y4"
                   >
                     Sign up for the beta now!
                   </Button>

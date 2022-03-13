@@ -109,7 +109,7 @@ const Header = ({
                     <ul className="list-reset header-nav-right">
                       <li>
                         <Link
-                          to="#0"
+                          to="https://nmym3dhe0sm.typeform.com/to/QNFH45y4"
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         >
