@@ -101,9 +101,10 @@ const Testimonial = ({
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
                     From a technological perspective, this work is incredibly
-                    impressive. We already knew machine learning could change
-                    the world, and it looks like Project Vouvos is putting in
-                    the work to achieve just that. Kudos!
+                    impressive. Machine learning is really kicking off so many
+                    revolutionary products that could never otherwise be
+                    possible, and it looks like Project Vouvos is one of those.
+                    Kudos!
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
