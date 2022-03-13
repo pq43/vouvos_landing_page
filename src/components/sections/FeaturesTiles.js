@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "Machine learning that makes a difference.",
+    title: "Machine learning for good",
     paragraph:
       "Project Vouvos was designed to help people, and our team is working its hardest to make the dream of a free, limitless video chat become a reality. Here are some of the features that we provide.",
   };
@@ -95,9 +95,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Completely free—forever</h4>
                   <p className="m-0 text-sm">
-                    Project Vouvos was started to make a difference. We will
-                    never charge for our services or run ads, and that's a
-                    promise.
+                    Project Vouvos was started to make a difference. We will try
+                    our best to never charge for our core services, and that's a
+                    promise. To accommodate server costs, we will run a donation
+                    system.
                   </p>
                 </div>
               </div>
