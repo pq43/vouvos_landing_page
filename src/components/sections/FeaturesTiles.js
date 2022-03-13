@@ -173,7 +173,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Responsive dev team</h4>
                   <p className="m-0 text-sm">
-                    Email support@projectvouvos.org with any feedback you have.
+                    Email contact@projectvouvos.org with any feedback you have.
                     Your concerns help us build a better product, and we really
                     appreciate it.
                   </p>
