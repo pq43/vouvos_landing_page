@@ -9,7 +9,7 @@ const FooterNav = ({ className, ...props }) => {
     <nav {...props} className={classes}>
       <ul className="list-reset">
         <li>
-          <a href="mailto:contact@projectvuovos.org">
+          <a href="mailto:contact@projectvouvos.org">
             Email us at contact@projectvouvos.org
           </a>
         </li>
