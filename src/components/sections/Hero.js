@@ -79,6 +79,7 @@ const Hero = ({
                     color="primary"
                     wideMobile
                     href="https://nmym3dhe0sm.typeform.com/to/QNFH45y4"
+                    target="_blank"
                   >
                     Sign up for the beta now!
                   </Button>

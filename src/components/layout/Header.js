@@ -108,13 +108,14 @@ const Header = ({
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
                       <li>
-                        <Link
-                          to="https://nmym3dhe0sm.typeform.com/to/QNFH45y4"
+                        <a
+                          href="https://nmym3dhe0sm.typeform.com/to/QNFH45y4"
+                          target="_blank"
                           className="button button-primary button-wide-mobile button-sm"
                           onClick={closeMenu}
                         >
                           Register for the beta
-                        </Link>
+                        </a>
                       </li>
                     </ul>
                   )}

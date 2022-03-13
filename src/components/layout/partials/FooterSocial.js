@@ -8,7 +8,10 @@ const FooterSocial = ({ className, ...props }) => {
     <div {...props} className={classes}>
       <ul className="list-reset">
         <li>
-          <a href="https://www.linkedin.com/company/project-vouvos/">
+          <a
+            href="https://www.linkedin.com/company/project-vouvos/"
+            target="_blank"
+          >
             <svg
               width="16"
               height="16"
