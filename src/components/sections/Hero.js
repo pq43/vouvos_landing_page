@@ -72,7 +72,7 @@ const Hero = ({
                 machine learning to ensure fluent communication across all
                 languages—including sign language (ASL). Currently in beta due
                 to server costs and some features still being developed, but we
-                plan to release it soon!
+                plan on releasing it to the public soon.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
