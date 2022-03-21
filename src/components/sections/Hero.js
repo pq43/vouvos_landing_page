@@ -70,7 +70,9 @@ const Hero = ({
               >
                 Project Vouvos is a forever-free mobile application that uses
                 machine learning to ensure fluent communication across all
-                languages—including sign language (ASL).
+                languages—including sign language (ASL). Currently in beta due
+                to server costs and some features still being developed, but we
+                plan to release it soon!
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
