@@ -120,11 +120,11 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">All languages included</h4>
+                  <h4 className="mt-0 mb-8">32 Languages Included</h4>
                   <p className="m-0 text-sm">
-                    Project Vouvos will support every language possible (ASL
-                    included). There's absolutely no worry of potentially being
-                    left out—we have you covered!
+                    Project Vouvos covers the 32 most commonly spoken languages
+                    (and ASL!). There shouldn't be much worry of potentially
+                    being left out—we have you covered!
                   </p>
                 </div>
               </div>

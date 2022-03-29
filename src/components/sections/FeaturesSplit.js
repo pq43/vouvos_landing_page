@@ -99,7 +99,7 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   2. BEHIND THE SCENES
                 </div>
-                <h3 className="mt-0 mb-12">Our server magic</h3>
+                <h3 className="mt-0 mb-12">Our server processes it</h3>
                 <p className="m-0">
                   Using state-of-the-art machine learning techniques designed
                   for accuracy and efficiency, we'll convert whatever you want
